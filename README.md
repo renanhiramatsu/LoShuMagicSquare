@@ -2,8 +2,8 @@
 Lo Shu Magic Square with multi-dimensional arrays.
 
 # What I used
-Classes inheritance and objects that receives another classes as parameter
+-> Classes inheritance and objects that receives another class as a parameter
 
-Multi-dimensional arrays
+-> Multi-dimensional arrays
 
 
